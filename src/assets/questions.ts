@@ -55,7 +55,7 @@ export const questions: Question[] = [
     image: kbbq,
   },
   {
-    prompt: "What food do we spend the most money on?",
+    prompt: "What's the most expensive meal we've had together?",
     options: ["Burgers", "Sushi", "Ramen", "Steak"],
     answer: "Sushi",
     letter: "U",
